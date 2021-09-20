@@ -1,5 +1,4 @@
-# OOP-
-JAVA app
+# OOP- JAVA
 
 This app contain the main OOP Concepts 
 - Class
